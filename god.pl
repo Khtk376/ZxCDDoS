@@ -29,9 +29,9 @@ print BOLD GREEN<<EOTEXT;
 ||    |   ||    ||  ||...|'   PACKETS: $size
 ||    |   ||    ||  ||           TIME: $time
  '|..'   .||...|'  .||.
-DDoS GoD By Vinix G YoU JuSt HiT $ip with $size packets.
+DDoS GoD By Marco#1990 JuSt HiT $ip with $size packets.
 -VGBoot DDoS script.
-By: xxjasontpikexx AKA DEEP-WEB (GHOST HACKER)                 
+By: Marco#1990 AKA DEEP-WEB (GHOST HACKER)                 
        
 EOTEXT
  
